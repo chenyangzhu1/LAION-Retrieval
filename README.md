@@ -1,4 +1,4 @@
-# LAION_Retrieval
+# LAION-Retrieval
 
 A simple script for fast retrieval on LAION subsets with [clip-retrieval](https://github.com/rom1504/clip-retrieval).
 
