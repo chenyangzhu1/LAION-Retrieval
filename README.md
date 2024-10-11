@@ -1,6 +1,6 @@
 # LAION_Retrieval
 
-Fast retrieval on LAION subsets with [clip-retrieval](https://github.com/rom1504/clip-retrieval).
+A simple script for fast retrieval on LAION subsets with [clip-retrieval](https://github.com/rom1504/clip-retrieval).
 
 Similarity retrieval in large image-text datasets (such as [LAION](https://laion.ai/)) allows for quick and convenient expansion of existing datasets. 
 This technique has been extensively used in AIGC realted methods like [Custom Diffusion](https://github.com/adobe-research/custom-diffusion).
